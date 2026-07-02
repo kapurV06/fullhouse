@@ -1,0 +1,7 @@
+processed/*.npy
+processed/*.npz
+processed/*.json
+processed/*.pkl
+data/
+__pycache__/
+*.pyc

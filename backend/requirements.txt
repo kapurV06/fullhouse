@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+numpy
+scipy
+xgboost
+groq
+scikit-learn
+hdbscan
+pronto
