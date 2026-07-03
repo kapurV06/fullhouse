@@ -7,7 +7,15 @@ A clinical diagnostic engine that combines phenotype ontology embeddings, unsupe
 
 ## Demo
 
-<img width="1917" height="905" alt="image" src="https://github.com/user-attachments/assets/7654de49-8b68-4375-a56f-2c1bfaedd692" />
+<img width="1913" height="906" alt="image" src="https://github.com/user-attachments/assets/794c814f-0440-4151-9fd4-d5035d503d7c" />
+*Lesch-Nyhan syndrome — self-mutilation, gout, hyperuricemia, spasticity*
+
+<img width="1905" height="906" alt="image" src="https://github.com/user-attachments/assets/a6f85e1f-a94c-4f42-8c2f-5edea6fc360a" />
+*Wilson's disease — Kayser-Fleischer ring, cirrhosis, tremor*
+
+<img width="1915" height="902" alt="image" src="https://github.com/user-attachments/assets/f3a783fe-e3f5-4e11-8076-387dcac377b2" />
+* just for the subtle nod :)) *
+
 
 
 ---
